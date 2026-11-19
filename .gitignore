@@ -1,0 +1,7 @@
+/data/
+/results/
+/work/
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
